@@ -1,0 +1,60 @@
+h1 {
+    text-align: center;
+    color: #EA5E2D;
+    border-bottom: 2px solid red;
+    background-color: #E7D3CC;
+}
+
+#itemsInfo {
+    font-size: 18px;
+    font-weight: bold;
+    /*border: 1px solid black;*/
+    background-color: #DFAF9E;
+    list-style: none;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#spanTwo {
+    list-style: none;
+    font-weight: bold;
+    text-align: center;
+    /*margin-top: 10px;
+margin-right: 10px;*/
+}
+
+#displayTotal {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border: 1px solid black;
+    background-color: #DFAF9E;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#receiptContainer {
+    margin-top: 50px;
+}
+
+.inputForm {
+    display: inline-block;
+    margin-left: 30%;
+    border: 1px solid #E7D3CC;
+}
+
+label {
+    margin: 5px;
+}
+
+#lists {
+    text-align: center;
+    margin-right: 5%;
+}
+
+#footerDiv {
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    font-size: 35px;
+    color: #EA5E2D;
+}
